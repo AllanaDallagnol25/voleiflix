@@ -1,6 +1,6 @@
 body {
     color: rgb(21, 8, 168);
-    background: rgb(228, 228, 33);
+    background: rgb(243, 243, 241);
     margin: 0px;
     font-family: "Rubik Wet Paint", system-ui;
 }
@@ -17,7 +17,7 @@ header {
 }
 
 .chamada {
-    background: rgb(248, 247, 247);
+    background: rgb(243, 241, 83);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(21, 8, 168) rgb(228, 228, 33);
+    scrollbar-color: rgb(21, 8, 168) rgb(240, 240, 238);
     scrollbar-width: thin;
     gap: 10px;
 }

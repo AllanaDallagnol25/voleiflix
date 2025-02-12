@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(234, 242, 13);
+    border-bottom: solid 2px rgb(2, 15, 244);
     padding: 20px;
     font-size: 32px;
     color: rgb(21, 8, 168);
@@ -23,7 +23,7 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px rgb(248, 232, 2);
+    border-bottom: solid 2px rgb(22, 2, 248);
 }
 
 .video {

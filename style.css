@@ -6,10 +6,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(21, 8, 168);
     padding: 20px;
     font-size: 32px;
-    color: lime;
+    color: rgb(21, 8, 168);
 }
 
 .background {
@@ -22,11 +22,11 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(21, 8, 168);
 }
 
 .video {
-    border: solid 2px lime;
+    border: solid 2px rgb(21, 8, 168);
 }
 
 .chamada-texto {
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: lime black;
+    scrollbar-color: rgb(17, 0, 255) black;
     scrollbar-width: thin;
     gap: 10px;
 }
